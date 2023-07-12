@@ -80,3 +80,30 @@ cd maven-web-application/src/main/webapp/images
 sudo cp Arcadmylogo.jpg /var/www/html
 cd  /var/www/html
 ls -l
+clear
+mvn -version
+ls -l
+git remote -v
+git init
+cd .git/
+ls -l
+cd ..
+git status
+git add.
+git add .
+git status
+git commit -m "adding data into git hub for maven web application"
+git status
+git remote -v
+git add origin https://github.com/demo2921/demo.git
+git add maven https://github.com/demo2921/demo.git
+git branch
+git statu
+git status
+git remote add origin https://github.com/demo2921/demo.git
+git remote -v
+git push -u origin master
+ git config --global --list
+git push -u origin master
+git push origin master
+git merge
